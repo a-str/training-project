@@ -1,3 +1,3 @@
 # training-project
 учебные проекты
-[Яндекс](www.yandex.ru)
+[Яндекс](https:\\www.yandex.ru)
